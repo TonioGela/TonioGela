@@ -19,6 +19,9 @@
 - [ ] Read [Type Astronaut’s Guide to Shapeless](https://underscore.io/books/shapeless-guide/)
 - [ ] Finish reading [Practical FP in Scala: A hands-on approach](https://leanpub.com/pfp-scala)
 
+## Papers
+- ART
+
 ## Blogs
 - [Fabio Labella](https://systemfw.org/)
 - [Typelevel](https://typelevel.org/blog/)
@@ -26,9 +29,18 @@
 - [Stephen Diehl](https://www.stephendiehl.com/pages/writings.html)
 - [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/)
 - [Choosing properties for property-based testing](https://fsharpforfunandprofit.com/posts/property-based-testing-2/)
+- [Type Level Programming in Scala](https://apocalisp.wordpress.com/2010/06/08/type-level-programming-in-scala/)
 
 ## Video & Talks
+- [Fabio Labella Talks](https://systemfw.org/talks.html)
+- [Jakub Kozłowski Channel](https://www.youtube.com/channel/UCBSRCuGz9laxVv0rAnn2O9Q)
+- [Pragmatic object-oriented tagless final](https://vimeo.com/363249962)
+- [Mpilquist](https://www.youtube.com/channel/UC61cqIh_Yt2LT_fhQ5j4uoQ)
+- [DevInsideYou](https://www.youtube.com/c/DevInsideYou)
+- [Practical Binary with Scodec — Michael Pilquist](https://youtu.be/jM21a-t4JnQ)
 - [Garrett Smith - Why The Cool Kids Don't Use Erlang](https://www.youtube.com/watch?v=3MvKLOecT1I)
 
 ## Extra
 - [sbt-microsites](https://47degrees.github.io/sbt-microsites/)
+
+You have the RSS reader full of articles!
