@@ -9,15 +9,17 @@
 - [ ] Use [Scodec](http://scodec.org/) in a project
 
 ## Books
-- [x] Read [Scala with Cats](https://underscore.io/books/scala-with-cats/)
-- [ ] Read [Scala with Cats 2](https://www.scalawithcats.com/) whenever gets available 
-- [ ] Read [Atopbook](https://atypeofprogramming.com/)
-- [ ] Finish reading [Finding Success and Failure in Haskell](https://leanpub.com/finding-success-in-haskell)
-- [ ] Finish reading the [Red Book](https://www.manning.com/books/functional-programming-in-scala)
-- [ ] Read [Things you need to know about JVM (that matter in Scala)](https://leanpub.com/jvm-scala-book)
-- [ ] Read [Functiona Programming for Mortals with Cats](https://leanpub.com/fpmortals-cats)
-- [ ] Read [Type Astronaut’s Guide to Shapeless](https://underscore.io/books/shapeless-guide/)
-- [ ] Finish reading [Practical FP in Scala: A hands-on approach](https://leanpub.com/pfp-scala)
+- [x] [Scala with Cats](https://underscore.io/books/scala-with-cats/)
+- [ ] [Essential Effects](https://essentialeffects.dev/)
+- [ ] [Functional Design and Architecture](https://leanpub.com/functional-design-and-architecture)
+- [ ] [Scala with Cats 2](https://www.scalawithcats.com/) whenever gets available 
+- [ ] [Atopbook](https://atypeofprogramming.com/)
+- [ ] [Finding Success and Failure in Haskell](https://leanpub.com/finding-success-in-haskell)
+- [ ] [Red Book](https://www.manning.com/books/functional-programming-in-scala)
+- [ ] [Things you need to know about JVM (that matter in Scala)](https://leanpub.com/jvm-scala-book)
+- [ ] [Functiona Programming for Mortals with Cats](https://leanpub.com/fpmortals-cats)
+- [ ] [Type Astronaut’s Guide to Shapeless](https://underscore.io/books/shapeless-guide/)
+- [ ] [Practical FP in Scala: A hands-on approach](https://leanpub.com/pfp-scala)
 
 ## Papers
 - ART
@@ -42,5 +44,3 @@
 
 ## Extra
 - [sbt-microsites](https://47degrees.github.io/sbt-microsites/)
-
-You have the RSS reader full of articles!
