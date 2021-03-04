@@ -11,6 +11,7 @@
 ## Books
 - [x] [Scala with Cats](https://underscore.io/books/scala-with-cats/)
 - [ ] [Essential Effects](https://essentialeffects.dev/)
+- [ ] [Functional Programming (it)](https://github.com/gcanti/functional-programming)
 - [ ] [Functional Design and Architecture](https://leanpub.com/functional-design-and-architecture)
 - [ ] [Scala with Cats 2](https://www.scalawithcats.com/) whenever gets available 
 - [ ] [Atopbook](https://atypeofprogramming.com/)
