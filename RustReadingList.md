@@ -16,7 +16,7 @@ This list is a refined and personalized version of [this one](https://twitter.co
 - [ ] [Half-Hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 
 ## Blogs
-- [ ] [Luca Palmieri](https://www.lpalmieri.com/)
+- [Luca Palmieri](https://www.lpalmieri.com/)
 
 ## Interactive
 - [ ] [Small Projects to learn Rust](https://github.com/TonioGela/to-do-rust)
