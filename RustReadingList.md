@@ -4,6 +4,8 @@ This list is a refined and personalized version of [this one](https://twitter.co
 
 ## Books
 - [ ] [The Rust Book](https://doc.rust-lang.org/book/)
+- [ ] [Programming Rust](https://learning.oreilly.com/library/view/programming-rust-2nd/9781492052586/)
+- [ ] [Zero to Prod](https://gumroad.com/l/zero2prod?wanted=true) <-- You'll like this one
 - [ ] [Easy Rust](https://dhghomon.github.io/easy_rust/)
 - [ ] [Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html#a-gentle-introduction-to-rust)
 - [ ] [Rust by Examples](https://doc.rust-lang.org/rust-by-example/)
