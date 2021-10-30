@@ -20,7 +20,6 @@ I'm Antonio Gelameris, a [<img alt="scala" width="10px" src="https://www.scala-l
 
 - 📫 How to reach me? 🦜 Twitter [@toniogela][twitter] or 👨‍💻 Linkedin [toniogela][linkedin]
 - 📖 I’m trying to learn everything but I'm trying harder with Advanced Functional Programming Topics and sometimes Rust
-- 🥅 2021 Goals: Contribute more to Open Source projects and take the [LFCS](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/) Exam
 - ⚡ Fun fact: I love to knit and crochet 🧶 
 
 
