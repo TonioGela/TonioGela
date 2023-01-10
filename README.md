@@ -10,4 +10,4 @@
 [pagopa]: https://www.pagopa.gov.it
 [scala]: https://www.scala-lang.org
 [twitter]: https://twitter.com/TonioGela
-[website]: https:/toniogela.dev
+[website]: https://toniogela.dev
