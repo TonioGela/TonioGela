@@ -1,4 +1,4 @@
-👋 I'm a [<img alt="scala" width="9px" src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" /> Scala][scala] developer, currently working at [<img width="20px" src="https://www.pagopa.gov.it/assets/images/logo-pagopa-bianco.svg" /> PagoPa][pagopa]
+👋 I'm a [<img alt="scala" width="9px" src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" /> Scala][scala] developer, currently working at [iov42]
 
 - [💻 blog][website]
 - <a rel="me" href="https://hachyderm.io/@toniogela">🐘 mastodon</a> 
@@ -7,7 +7,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/toniogela
-[pagopa]: https://www.pagopa.gov.it
+[iov42]: https://iov42.com/
 [scala]: https://www.scala-lang.org
 [twitter]: https://twitter.com/TonioGela
 [website]: https://toniogela.dev
