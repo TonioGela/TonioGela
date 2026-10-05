@@ -1,7 +1,6 @@
 👋 I'm a [<img alt="scala" width="9px" src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" /> Scala][scala] developer, currently working at [hypervolt]
 
 - [💻 blog][website]
-- <a rel="me" href="https://hachyderm.io/@toniogela">🐘 mastodon</a> 
 - [👔 linkedin][linkedin]
 - 🧶 knitter
 
